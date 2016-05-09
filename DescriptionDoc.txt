@@ -1,0 +1,17 @@
+GitHub link:
+	https://github.com/emadehsan/AP_Ex5
+	
+Description:
+	
+	 0. Configure Project for My Local Machine
+	 
+	 1. Create 2 courses
+
+	 2. teachers for each course
+        
+	 3. 3 students for each
+        
+	 4. 2 contents for each course        
+        
+	 5. clos for each content for course
+        
